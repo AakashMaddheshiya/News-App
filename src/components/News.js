@@ -103,7 +103,6 @@ export class News extends Component {
             })
         
         }
-        setTimeout(this.componentDidCatch(),1000)
 
     }
 
